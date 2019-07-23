@@ -5,8 +5,11 @@
 ![image](https://github.com/xylon666/Xylon_Code/blob/master/Image/2.png)
 
 所需环境
+
 IDE：Pycharm
+
 第三方库：requests，PIL
+
 浏览器：Chrome
 
 爬取目标：
