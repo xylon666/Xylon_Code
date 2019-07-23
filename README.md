@@ -1,4 +1,4 @@
-萌新第一个github，求支持ε=ε=(ノ≧∇≦)ノ
+萌新第一个github，求支持 (●'◡'●)ﾉ ❤
 
 博客地址 https://blog.csdn.net/Xylon_/article/details/96995689
 
