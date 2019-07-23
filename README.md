@@ -1,3 +1,5 @@
+萌新第一个github，求支持ε=ε=(ノ≧∇≦)ノ
+
 博客地址 https://blog.csdn.net/Xylon_/article/details/96995689
 
 爬取结果展示： 全原画+皮肤名称分类
